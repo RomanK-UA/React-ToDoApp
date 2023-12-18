@@ -1,0 +1,26 @@
+.task-list {
+    margin: 10px;
+    max-height: 50vh;
+    overflow-y: scroll;
+  }
+  
+  .task-bar {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    word-wrap: break-word;
+    min-width: 400px;
+  }
+  
+  .task-title {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .task-tags {
+    font-size: 18px;
+    margin-top: 5px;
+    color: #555;
+  }
