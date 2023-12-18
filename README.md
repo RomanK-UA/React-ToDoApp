@@ -27,8 +27,8 @@ Project structure:
   - `index.css`;
   - `main.jsx`;
 In the same folder there are two folders: 
-  - `Components` - which contain folders for `Containers` components and `UI` (stateless) components;
-  - `Styles` hold main components `.css` files.
+  - `Components` - which contains folders for `Containers` components and `UI` (stateless) components;
+  - `Styles` holds main components `.css` files.
 
 Known issue: tags input requires comma separation if you use more than 1 word, also last word should end with comma as well. 
 
