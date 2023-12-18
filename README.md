@@ -6,4 +6,6 @@ Released features:
 - deleting tasks.
 
 Installation:
-
+1. Clone repository;
+2. Navigate to the folder;
+3. Use npm install ;
